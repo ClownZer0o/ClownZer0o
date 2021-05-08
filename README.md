@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ClownZer0o
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python for Expert, Statistic and Data Analytics
+- 🌱 I’m currently learning Python for Expert,
+- just started exploring on backend developers.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
