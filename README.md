@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClownZer0o
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python for Expert,
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning JavaScript(Node.js) for backend development.
 - just started exploring on backend developers.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
